@@ -1,0 +1,9 @@
+Package: com.ihack102.scneverlogout
+Name: SCNeverlogout
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Never logout from snapchat app now you can join with 2 device snapchat enjoy :)
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
